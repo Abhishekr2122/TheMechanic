@@ -1,0 +1,47 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    
+}
+
+#red{
+    background-image: url(/images/car-1544342.jpg);
+    background-repeat: no-repeat;
+    background-size: 1519px 800px;
+    width:  1519px;
+    height: 310px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#blue{
+    font-size: 100px;
+    background-color: rgba(209, 245, 245, 0.473);
+    border-radius: 5px;
+    
+}
+
+#green{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1px;
+    
+    background-color: rgb(225, 238, 225);
+    background-size: 1519px 500px;
+    height: 500px;
+    
+}
+
+#yellow{
+    height: 350px;
+    width: 600px;
+    color: white;
+   
+    background-image: url(/images/speedometer-1249610.jpg);
+    background-repeat: no-repeat;
+    background-size: 900px 600px;
+    padding: 20px;
+    border-radius: 10px;
+}

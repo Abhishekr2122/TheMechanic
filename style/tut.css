@@ -1,0 +1,57 @@
+
+body{
+   background-image: url(/images/plymouth-945428.jpg);
+   background-repeat: no-repeat;
+   background-size: 1536px 800px;
+}
+
+#sea{
+    height: 250px;
+    width: 250px;
+    margin-left: 10px;
+}
+
+#river{
+    position: absolute;
+    font-size: 48px;
+    top: 17.5%;
+    left: 3%;
+    transform: rotate(320deg);
+    color: white;
+}
+
+
+
+#lake{
+    background-color: rgba(255, 255, 255, 0.253);
+    height: 500px;
+    width: 500px;
+    margin-top: 0px;
+    position: absolute;
+    left: 30%;
+    top: 25%;
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ 
+.water{
+    padding: 10px;
+}
+
+#pond{
+    font-size: 40px;
+    color: black;
+}
+
+.air{
+    width: 350px;
+}
+
+button{
+    border-radius: 4px;
+    background: transparent;
+    padding: 4px;
+    font-size: 20px;
+}

@@ -1,0 +1,408 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: whitesmoke;
+    
+
+}
+
+button:hover{
+    cursor: pointer;
+
+}
+
+
+.head{
+    
+    border-radius: 2px;
+    background-color: rgb(160, 226, 216);
+    position: fixed;
+    width: 1520px;
+}
+
+.one{
+    display: flex;
+    flex-direction: row;
+    margin-left: 0px;
+    
+}
+
+.one ul:hover{
+    color: whitesmoke;
+    cursor: pointer;
+}
+
+.two{
+    height: 500px;
+    width: 100%;
+    
+}
+
+.three{
+    margin-top: 0px;
+    display: flex;
+    flex-direction: row;
+    
+   }
+
+.four {
+       position: absolute;
+       top: 15%;
+       left: 16%;
+       
+     }
+
+
+    
+       
+    
+
+    #six{
+        position: absolute;
+        right: 14px;
+        top: 12px;
+        border-radius: 8px;
+        padding: 2px;
+        background-color: rgba(255, 255, 255, 0.377);
+        background: transparent;
+        color: black;
+    }
+
+   h1{
+       
+    font-size: 100px;
+       width: 1100px;
+       color: rgba(255, 250, 250, 0.897);
+       cursor: pointer;
+     }
+
+      #a:hover
+      {
+      /* animation: animate 4.5s linear infinite; */
+      color: rgb(245, 94, 117);
+      } 
+      
+      #b:hover
+      {
+        /* animation: animate 4.5s linear infinite; */
+      color: rgb(125, 241, 125);
+      
+      } 
+
+    #c:hover
+    {
+      /* animation: animate 4.5s linear infinite; */
+      color: rgb(243, 191, 123);
+      
+    }
+
+   
+
+    #d:hover
+    {
+    /* animation: animate 4.5s linear infinite; */
+    color: rgb(197, 226, 140);
+    
+    }
+
+    #e:hover
+    {
+     /* animation: animate 4.5s linear infinite; */
+     color: rgb(170, 252, 252);
+     
+    }
+
+    #f:hover
+    {
+    /* animation: animate 4.5s linear infinite;    */
+    color: rgb(111, 158, 247);
+    
+    }
+
+    #g:hover
+    {
+    /* animation: animate 4.5s linear infinite;     */
+    color: darksalmon;  
+    
+    }
+
+    #h:hover
+    {
+    /* animation: animate 4.5s linear infinite; */
+    color: rgb(243, 205, 52);
+    
+    }
+
+    #i:hover
+    {
+    /* animation: animate 4.5s linear infinite;    */
+    color: rgb(94, 238, 238);
+    
+    
+    }
+    
+    #j:hover
+    {
+   /* animation: animate 4.5s linear infinite;     */
+   color: rgb(240, 140, 240);
+    
+    }
+
+    #k:hover
+    {
+    /* animation: animate 4.5s linear infinite; */
+    color: rgb(199, 108, 108);
+    
+    }
+
+#box4{
+    margin-top: 45px;
+    /* border: 2px solid grey; */
+    height: 700px;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(220, 229, 240);
+    border-radius: 10px;
+    
+    
+    
+} 
+
+#box1{
+    /* border: 2px solid red; */
+    width: 300px;
+    margin: 8px;
+    margin-left: 200px;
+    height: 500px;
+    margin-top: 8%;
+    padding: 30px;
+    background-color: white;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+#box2{
+    /* border: 2px solid green; */
+    width: 300px;
+    margin: 8px;
+    height: 500px;
+    margin-top: 8%;
+    padding: 30px;
+    background-color: white;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+#box3{
+    /* border: 2px solid blue; */
+    width: 300px;
+    margin: 8px;
+    height: 500px;
+    margin-top: 8%;
+    padding: 30px;
+    background-color: white;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+#photo img{
+    height: 110px;
+    width: 110px;
+}
+
+#photo1 img{
+    height: 100px;
+    width: 100px;
+    margin-left: 2px;
+    margin-top: 2px;
+}
+#photo2 img{ 
+    height: 90px;
+    width: 200px;
+    margin-left: 2px;
+    margin-top: 2px;
+   
+
+}
+
+#front{
+    width: 600px;
+    font-size: 55px;
+    color: black;
+    margin-top: 10px;
+}
+
+
+
+#back{
+    height: 100px;
+    width: 200px;
+    position: absolute;
+    left: 35%;
+    cursor: pointer;
+    margin-top: 20px;
+    }
+
+#bottom{
+    /* border: 2px solid red; */
+    margin-top: 25px;
+    display: flex;
+    flex-direction: row;
+}
+
+.top img{
+    height: 500px;
+    width: 506px;
+    
+}
+
+.A{
+  font-size: 35px;
+  display: block;
+  margin: auto 40%;
+  /* border: 2px solid red; */
+  height:100px;
+  width: 300px;
+  
+}
+
+.B{ 
+    margin-top: 20px;
+    /* border: 2px solid black; */
+    background-color: rgb(245, 239, 231);
+    height: 200px;
+    border-radius: 10px
+     ;
+    
+    
+}
+
+.C{
+    width: 400px;
+    height: 100px;
+}
+
+.D img{
+    height: 80px;
+    width: 70px;
+    padding: 100px;
+    margin-top: -60px;
+    
+
+}
+
+#E{ display: flex;
+    flex-direction: row;
+    /* border: 2px solid blue; */
+    width: 1000px;
+    height: 200px;
+    margin-top: -40px;
+    margin-left: 250px;
+}
+
+#G{
+    background: transparent;
+    height: 380px;
+    width: 800px;
+    margin-top: 50px;
+padding: 10px;}
+    
+ 
+#down {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+   
+    
+}
+
+#up{
+  
+    /* border: 2px solid green; */
+    height: 600px;
+    background-image: url(/images/football-stadium-3404535.jpg);
+    margin-top: -50px;
+    
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.H{
+    padding: 20px;
+}
+
+.O{
+    width: 500px;
+    background: transparent;
+    
+    
+}
+
+#left{
+    background-color: blanchedalmond }
+ 
+#left p{
+    padding: 20px;
+}
+
+
+
+.low{
+    color: white;
+    font-size: 30px;
+}
+
+#small{
+    border-radius: 10px;
+    padding: 8px;
+    margin-top: 10px;
+    background: transparent;
+    color: white;
+}
+
+#tall{
+    position: absolute;
+    left: 40%;
+}
+
+#foot{
+    margin-top: 20px;
+    height: 700px;
+   background-image: url(/images/car-1281698.jpg);
+   border-radius: 5px;
+   background-repeat: no-repeat;
+   
+}
+
+footer{
+    padding: 6px;
+}
+
+#go li{
+    list-style: none;
+    padding: 10px;
+    font-size: 40px;
+    color: black;
+}
+
+.zero a{color: black;
+    text-decoration: none;
+
+}
+
+.five a{
+    text-decoration: none;
+    color: black;
+    
+}
+
+.five a:hover{
+    color: white;
+
+}
+
+.five ul:hover{
+    color: white;
+    cursor: pointer;
+}
+
+
+
+   
